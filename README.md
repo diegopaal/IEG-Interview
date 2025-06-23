@@ -65,18 +65,6 @@ This folder contains:
 - An **interactive world map** of outcome scores.
 - Feature importance graphs and final model outputs.
 
----
-
-## 🚀 How to Run
-1. Download the dataset from the IEG [Project Ratings page](https://ieg.worldbankgroup.org/data) and place it in `1_Data/`.
-2. Install required Python packages (optional: via `requirements.txt`).
-3. Run the notebooks in the following order:
-   - `1_Data_Analysis.ipynb`
-   - `2_Models.ipynb`
-   - `3_NLP_Model.ipynb`
-
----
-
 ## 👤 Author
 
 Prepared by **Diego Parra** (dparraalvarez@worldbank.org). Feel free to reach out for questions or collaboration opportunities.
