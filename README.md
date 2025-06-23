@@ -1,6 +1,6 @@
-# Project Evaluation Analysis – World Bank IEG Data
+# Analyst Position Interview – World Bank IEG Data
 
-This repository was developed as part of a professional interview exercise to explore and model the relationship between **Monitoring and Evaluation (M&E) Quality** and **Outcome Ratings** for World Bank projects, using data from the **Independent Evaluation Group (IEG)**. The analysis focuses on projects within the **Human Development Practice Group** approved between **2015 and 2025**.
+This repository was developed as part of an interview exercise to explore and model the relationship between **Monitoring and Evaluation (M&E) Quality** and **Outcome Ratings** for World Bank projects, using data from the **Independent Evaluation Group (IEG)**. The analysis focuses on projects within the **Human Development Practice Group** approved between **2015 and 2025**.
 
 ---
 
